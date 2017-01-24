@@ -22,12 +22,12 @@ $(document).ready(function() {
     });
 
 
-    $("ul.pricing-results").append(
+    $("ul.unstyled").append(
       "<li>" + newMoviePrices.movieName + "</li>" +
       "<li>" + newMoviePrices.movieTime + "</li>" +
       "<li>" + newMoviePrices.movieAge + "</li>");
 
-      //alert(newMoviePrices.movieName + ", " + newMoviePrices.movieAge + ", " + newMobiePrices.movieTime);
+
     $(".pricing-results").show();
 
 
