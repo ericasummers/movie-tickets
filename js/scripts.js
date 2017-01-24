@@ -28,7 +28,7 @@ $(document).ready(function() {
       "<li>" + newMoviePrices.movieAge + "</li>");
 
 
-    $(".pricing-results").show();
+    $("#pricing-results").show();
 
 
   });

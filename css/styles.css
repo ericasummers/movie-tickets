@@ -1,3 +1,25 @@
-.pricing-results {
+#pricing-results {
   display: none;
+}
+
+body {
+  background-color: #ADF2F7;
+}
+.panel {
+  width: 70%;
+  margin: 20px auto;
+  background-color: #AED6A0;
+}
+
+.jumbotron {
+  text-align: center;
+}
+
+#intro {
+  text-align: center;
+  font-size: 24px;
+}
+
+.btn {
+  background-color: #88A5C8;
 }
