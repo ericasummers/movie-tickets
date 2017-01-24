@@ -23,3 +23,7 @@ body {
 .btn {
   background-color: #88A5C8;
 }
+
+#price-answers {
+  display: none;
+}
